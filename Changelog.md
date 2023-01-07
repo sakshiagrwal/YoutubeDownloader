@@ -1,6 +1,7 @@
-### v1.9.6 (06-Dec-2022)
+### v1.9.6 (07-Jan-2023)
 
 - Fixed various YouTube-related issues. Updated to YoutubeExplode v6.2.5.
+- Remove ShowWarInUkraineMessageAsync method to prevent message from showing repeatedly on app start.
 
 ### v1.9.5 (05-Nov-2022)
 
