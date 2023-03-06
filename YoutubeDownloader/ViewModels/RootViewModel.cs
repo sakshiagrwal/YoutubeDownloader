@@ -83,6 +83,7 @@ public class RootViewModel : Screen
         {
             App.SetLightTheme();
         }
+         App.Current.Resources["PrimaryDark"] = new System.Windows.Media.SolidColorBrush(System.Windows.Media.Color.FromRgb(0, 0, 0));
     }
 
     protected override void OnClose()
